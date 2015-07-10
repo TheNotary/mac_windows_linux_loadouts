@@ -12,7 +12,7 @@ I don't use Windows, but when I do I use...
 - WinSCP
 - FileZilla
 - Aptana... replace with sublime text
-- VisualStudio
+- Visual Studio 2010 Ultimate
 - Chrome
 - Folders (coding stuff, my scripts)
 - FireFox
@@ -29,30 +29,30 @@ I don't use Windows, but when I do I use...
 
 
 
-## Application List
+## Non-Docked Application List
 
--Logitech Setpoint Control Center v 4.80.103 (close, caps for voice, ctl+tab, ctrl+shft+tab)
--Burp (backups)
--negative_screen
+- Logitech Setpoint Control Center v 4.80.103 (close, caps for voice, ctl+tab, ctrl+shft+tab)
+- Burp (backups)
+- negative_screen
+- RamDisk
 
--FireFox
--Chrome
+- Foxit
 
 - git (use the old context menu, it's better)
-- Putty
-- WinSCP
-- Virtual Box
 - MS Office 2007
+- Video Editor
 - Notepad++ =(
 - Ruby
-- Visual Studio 2010 Ultimate
 
 - Steam
 - Star Craft II
-- wiiBackupManager_win64
+
+
+
 
 
 ## VM List
+
 - A windows XP machine for virii
 - A debian machine for testing
 - An Ubunut Machine for testing
@@ -60,17 +60,23 @@ I don't use Windows, but when I do I use...
 - That finiky mac machine...
 
 
+
+
 ## Folder Structure
 
-- C:/All Files         - All my windows files
-- C:/All Files/My Docs - All my old notes/ docs
-- C:/All Files/Progz   - All programs that don't come with installers
-- C:/drivers           - The system's drivers, backed up elsewhere
-- D:/staging           - For FLAC rips and DVD/cd crap that goes to the cloud
-- D:/video_productions - Any screencasts, etc. things I produce
-- D:/virtual_machines  
-- D:/camera_media      - Content I pull off my phone
-- D:/Archive           - Migrate away from putting stuff here... it's on cloud now
+- C:/drivers                     - The system's drivers, backed up elsewhere
+
+- D:/all_files/camera_media      - Content I pull off my phone
+- D:/all_files/My Docs           - All my old notes/ docs
+- D:/all_files/Progz             - All programs that don't come with installers
+- D:/all_files/video_productions - Any screencasts, etc. things I produce
+- D:/all_files/work_data         - 
+
+
+
+- D:/virtual_machines
+- D:/staging                     - For FLAC rips and DVD/ CD stuff that goes to the cloud
+- D:/Archive                     - Migrate away from putting stuff here... it's on cloud now
 
 
 
