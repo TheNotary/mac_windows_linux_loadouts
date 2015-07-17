@@ -38,10 +38,11 @@ I don't use Windows, but when I do I use...
 
 - Foxit
 
+- chocolatey???
 - git (use the old context menu, it's better)
 - MS Office 2007
 - Video Editor
-- Notepad++ =(
+- ATOM (Replacing Notepad++)
 - Ruby
 
 - Steam
@@ -64,21 +65,28 @@ I don't use Windows, but when I do I use...
 
 ## Folder Structure
 
+- C:/Progz                       - All programs that don't come with installers
 - C:/drivers                     - The system's drivers, backed up elsewhere
 
 - D:/all_files/camera_media      - Content I pull off my phone
 - D:/all_files/My Docs           - All my old notes/ docs
-- D:/all_files/Progz             - All programs that don't come with installers
 - D:/all_files/video_productions - Any screencasts, etc. things I produce
-- D:/all_files/work_data         - 
+- D:/all_files/work_data         -
 
 
 
-- D:/virtual_machines
+- D:/virtual_machines            -
 - D:/staging                     - For FLAC rips and DVD/ CD stuff that goes to the cloud
 - D:/Archive                     - Migrate away from putting stuff here... it's on cloud now
 
 
+## Windows Configurations (registries included)
 
+- 01_dont_hide_stuff
+  * Show file extensions
+  * Show hidden files
+- 02_fix_alt_tab_disable_peek
+  * When alt tabbing, the open tasks will be covered up too fast for you to find what you need.  This solves that.
+- 03_startup_programs
 
-
+- Set Atom as default .txt editor?
