@@ -7,6 +7,8 @@
 - iTerm2
 - KeePassX
 - Discord
+- Atom
+- Intellij
 
 
 ###### OS Configurations to Make
