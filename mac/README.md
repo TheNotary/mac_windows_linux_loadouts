@@ -36,6 +36,7 @@
 ###### CLI Installations
 
 - dotfiles
+- Docker
 - brew
 - wget
 - kubectl
