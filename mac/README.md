@@ -36,5 +36,8 @@
 ###### CLI Installations
 
 - dotfiles
--
+- brew
+- wget
+- kubectl
+- gister
 
