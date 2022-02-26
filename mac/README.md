@@ -8,7 +8,7 @@
 - KeePassX
 - Discord
 - Atom
-- Intellij
+- IntelliJ
 
 
 ###### OS Configurations to Make
@@ -18,6 +18,7 @@
 - Touchpad -> Scroll & Zoom -> Scroll Direction: Unnatural
 - Keyboard -> Key Repeat (slider) -> Fastest
 - Keyboard -> Delay Until Repeat (slider) -> Shortest
+- Control + Up -> Click the "+" button to enable multiple desktops
 
 
 ###### App Configurations to Make
@@ -36,9 +37,13 @@
 ###### CLI Installations
 
 - dotfiles
-- Docker
 - brew
+- Docker
 - wget
 - kubectl
 - gister
 
+
+###### IntelliJ Configs
+
+- font size...
