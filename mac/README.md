@@ -14,6 +14,7 @@
 ###### OS Configurations to Make
 
 - About this mac -> Displays -> Disp Pref -> Resolution = Scaled, middle option 1536 x 960
+- About this mac -> Displays -> Disp Pref large monitor -> Resolution = Scaled, left option 1920 x 1080
 - About this mac -> Displays -> Disp Pref -> Truetone off
 - Touchpad -> Scroll & Zoom -> Scroll Direction: Unnatural
 - Keyboard -> Key Repeat (slider) -> Fastest
@@ -46,4 +47,6 @@
 
 ###### IntelliJ Configs
 
-- font size...
+- IntelliJ Pref -> Keymap -> Keymap (dropdown) -> Mac OS X 10.5+
+- IntelliJ Pref -> Keymap -> Editor Tabs -> Select Next Tab/ Select Previous Tab
+
