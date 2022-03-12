@@ -50,3 +50,12 @@
 - IntelliJ Pref -> Keymap -> Keymap (dropdown) -> Mac OS X 10.5+
 - IntelliJ Pref -> Keymap -> Editor Tabs -> Select Next Tab/ Select Previous Tab
 
+###### Chrome Configs
+
+- Search Engines:
+  - y, youtube
+  - c, camelcamelcamel
+  - e, ebay
+  - m, https://scryfall.com/search?as=grid&order=name&q=oracle%3A%s
+  - a, ...
+
