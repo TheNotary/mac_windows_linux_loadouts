@@ -54,7 +54,7 @@
 - IntelliJ Pref -> Editor -> Color Scheme -> Java -> Classes and Interfaces -> Class:  set to a nice salmon color
 
 
-###### Visual Studio Code
+###### Visual Studio 2022
 
 - Toggle Comment
 - Close tab
