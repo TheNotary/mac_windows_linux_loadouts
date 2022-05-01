@@ -49,7 +49,16 @@
 
 - IntelliJ Pref -> Keymap -> Keymap (dropdown) -> Mac OS X 10.5+
 - IntelliJ Pref -> Keymap -> Editor Tabs -> Select Next Tab/ Select Previous Tab
+- IntelliJ Pref -> Keymap -> Editor Tabs -> Close Tab (windows)
+- IntelliJ Pref -> Keymap -> Editor Tabs -> Navigate Back / Forward (windows)
 - IntelliJ Pref -> Editor -> Color Scheme -> Java -> Classes and Interfaces -> Class:  set to a nice salmon color
+
+
+###### Visual Studio Code
+
+- Toggle Comment
+- Close tab
+- navigate previous??
 
 ###### Chrome Configs
 
