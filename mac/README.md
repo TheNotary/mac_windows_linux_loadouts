@@ -56,9 +56,10 @@
 
 ###### Visual Studio 2022
 
-- Toggle Comment
-- Close tab
-- navigate previous??
+- Tools -> Options -> Environment -> Keyboard -> Toggle Comment (ctrl + /)
+- Tools -> Options -> Environment -> Keyboard -> CloseDocumentWindow (ctrl + w)
+- Tools -> Options -> Environment -> Keyboard -> NavigateBackward (alt + Left)
+- Tools -> Options -> Environment -> Keyboard -> NavigateForward (alt + Left)
 
 ###### Chrome Configs
 
