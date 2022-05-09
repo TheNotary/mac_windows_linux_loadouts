@@ -60,6 +60,8 @@
 - Tools -> Options -> Environment -> Keyboard -> CloseDocumentWindow (ctrl + w)
 - Tools -> Options -> Environment -> Keyboard -> NavigateBackward (alt + Left)
 - Tools -> Options -> Environment -> Keyboard -> NavigateForward (alt + Left)
+- Tools -> Options -> Environment -> Keyboard -> Window.NextTab (ctrl + tab)
+- - Tools -> Options -> Environment -> Keyboard -> Window.NextTab (ctrl + Shift + tab)
 
 ###### Chrome Configs
 
