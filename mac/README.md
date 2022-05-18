@@ -57,13 +57,20 @@
 ###### Visual Studio 2022
 
 - Tools -> Options -> Environment -> Keyboard -> Toggle Comment (ctrl + /)
-- - Tools -> Options -> Environment -> Keyboard -> Edit.SelectCurrentWord (Remove ctrl + w)
+- Tools -> Options -> Environment -> Keyboard -> Edit.SelectCurrentWord (Remove ctrl + w)
 - Tools -> Options -> Environment -> Keyboard -> CloseDocumentWindow (ctrl + w)
 - Tools -> Options -> Environment -> Keyboard -> NavigateBackward (alt + Left)
 - Tools -> Options -> Environment -> Keyboard -> NavigateForward (alt + Left)
 - Tools -> Options -> Environment -> Keyboard -> Window.NextTab (ctrl + tab)
-- - Tools -> Options -> Environment -> Keyboard -> Window.NextTab (ctrl + Shift + tab)
+- Tools -> Options -> Environment -> Keyboard -> Window.NextTab (ctrl + Shift + tab)
 
+- TestExplorer.RunAllTests (ctrl + alt + f5)
+- Debug.StepOver (ctrl + alt + f6)
+- Debug.ShowNextStatement (ctrl + alt + f7)
+- TestExplorer.RepeatLastRun (ctrl + alt + f8)
+- Debug.StepInto (ctrl + alt + f9)
+
+ 
 ###### Chrome Configs
 
 - Search Engines:
