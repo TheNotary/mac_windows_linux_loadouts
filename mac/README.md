@@ -67,7 +67,7 @@
 - TestExplorer.RunAllTests (ctrl + alt + f5)
 - Debug.StepOver (ctrl + alt + f6)
 - Debug.ShowNextStatement (ctrl + alt + f7)
-- TestExplorer.RepeatLastRun (ctrl + alt + f8)
+- TestExplorer.DebugLastRun (ctrl + alt + f8)
 - Debug.StepInto (ctrl + alt + f9)
 
  
