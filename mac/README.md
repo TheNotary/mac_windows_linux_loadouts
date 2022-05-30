@@ -56,19 +56,23 @@
 
 ###### Visual Studio 2022
 
-- Tools -> Options -> Environment -> Keyboard -> Toggle Comment (ctrl + /)
-- Tools -> Options -> Environment -> Keyboard -> Edit.SelectCurrentWord (Remove ctrl + w)
-- Tools -> Options -> Environment -> Keyboard -> CloseDocumentWindow (ctrl + w)
-- Tools -> Options -> Environment -> Keyboard -> NavigateBackward (alt + Left)
-- Tools -> Options -> Environment -> Keyboard -> NavigateForward (alt + Left)
-- Tools -> Options -> Environment -> Keyboard -> Window.NextTab (ctrl + tab)
-- Tools -> Options -> Environment -> Keyboard -> Window.NextTab (ctrl + Shift + tab)
+- Tools -> Options ->  Text Editor -> All Langs -> Automatic Brace Completion (Disable)
 
-- TestExplorer.RunAllTests (ctrl + alt + f5)
-- Debug.StepOver (ctrl + alt + f6)
-- Debug.ShowNextStatement (ctrl + alt + f7)
-- TestExplorer.DebugLastRun (ctrl + alt + f8)
-- Debug.StepInto (ctrl + alt + f9)
+- Tools -> Options -> Environment -> Keyboard -> ...
+- Generic Combos...
+  - Toggle Comment (ctrl + /)
+  - Edit.SelectCurrentWord (Remove ctrl + w)
+  - CloseDocumentWindow (ctrl + w)
+  - NavigateBackward (alt + Left)
+  - NavigateForward (alt + Left)
+  - Window.NextTab (ctrl + tab)
+  - Window.NextTab (ctrl + Shift + tab)
+- Macro Pad...
+  - TestExplorer.RunAllTests (ctrl + alt + f5)
+  - Debug.StepOver (ctrl + alt + f6)
+  - Debug.ShowNextStatement (ctrl + alt + f7)
+  - TestExplorer.DebugLastRun (ctrl + alt + f8)
+  - Debug.StepInto (ctrl + alt + f9)
 
  
 ###### Chrome Configs
