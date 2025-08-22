@@ -54,8 +54,17 @@
 - IntelliJ Pref -> Editor -> Color Scheme -> Java -> Classes and Interfaces -> Class:  set to a nice salmon color
 
 
-###### Visual Studio 2022
+###### VS Code 
 
+(See the edu/notes repo for full list of editor shortcuts)
+
+For Ruby with VS Code...
+- For good ERB experience, build ~/dev/tools/htmlbeautifier and install the below extensions (might need patches to fire off the correct exe)
+  - code --install-extension aki77.html-erb
+  - code --install-extension aliariff.vscode-erb-beautify
+
+
+###### Visual Studio 2022
 - Tools -> Options ->  Text Editor -> All Langs -> Automatic Brace Completion (Disable)
 
 - Tools -> Options -> Environment -> Keyboard -> ...
